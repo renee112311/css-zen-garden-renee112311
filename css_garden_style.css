@@ -31,7 +31,6 @@ p {
 }
 h3 {
    text-align: justify;
-   /* font: italic normal 1.4em georgia, sans-serif; */
    letter-spacing: 1px;
    margin-bottom: 0;
    color: #ffe679;
@@ -123,9 +122,6 @@ header h2 {
    width: 100%;
 }
 
-
-.summary {
-}
 .summary p {
    text-align: left;
 }
@@ -134,7 +130,7 @@ header h2 {
    width: 85%;
 }
 .supporting {
-   margin-top: 30%;
+   margin-top: 20%;
    margin-bottom: 40px;
    width: 85%;
 }
@@ -175,7 +171,6 @@ footer a:visited {
    margin: 25px 0 5px 0;
    width: 63px;
    height: 10px;
-
    white-space: nowrap;
    overflow: hidden;
 }
@@ -200,14 +195,14 @@ footer a:visited {
 
 .extra1 {
    position: absolute;
-   bottom: -150%;
+   bottom: -130%;
    right: 7%;
    z-index: -1;
 }
 .extra2 {
    position: absolute;
    left: 10px;
-   top: 98%;
+   top: 100%;
    z-index: -1;
 }
 .extra3 img {
@@ -215,7 +210,7 @@ footer a:visited {
    width: 100px;
    height: auto;
    left: 40px;
-   top: 180%;
+   top: 170%;
    z-index: -1;
    filter: drop-shadow( 0 0 3px  #fff) drop-shadow( 0 0 4px  #ff8161) drop-shadow( 0 0 8px   #ff3c00);
    animation: neon1 linear infinite 3s;
@@ -226,7 +221,7 @@ footer a:visited {
    width: 100px;
    height: auto;
    left: 40px;
-   top: 230%;
+   top: 210%;
    z-index: -1;
    filter: drop-shadow( 0 0 3px  #fff) drop-shadow( 0 0 4px  #6198ff) drop-shadow( 0 0 8px   #0400ff);
    animation: neon1 linear infinite 3s;
